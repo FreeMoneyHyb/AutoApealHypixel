@@ -1,2 +1,2 @@
 # AutoApealHypixel
-Automaitcly Gets Verication Code To Link Your Fourms Account
+Automaitcly Gets Verifcation Code To Link Your Fourms Account
