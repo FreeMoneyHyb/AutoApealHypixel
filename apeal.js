@@ -49,7 +49,7 @@ for (const account of accounts) {
                 return;
               }
               const verificationCode = extra.text.split("is ")[1].split(".")[0];
-              console.log("Verification code:", verificationCode);
+              console.log(bot.username + "'s Verification Code:", verificationCode);
             }
           });
         }
