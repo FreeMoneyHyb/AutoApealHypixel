@@ -49,7 +49,7 @@ for (const account of accounts) {
                 return;
               }
               const verificationCode = extra.text.split("is ")[1].split(".")[0];
-              console.log(account.username + "'s Verification Code:", verificationCode);
+              console.log(account.username + "'s Verification Link: https://hypixel.net/link-minecraft/?key="+verificationCode);
             }
           });
         }
